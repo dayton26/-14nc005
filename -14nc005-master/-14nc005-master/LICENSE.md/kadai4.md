@@ -1,3 +1,5 @@
+https://github.com/dayton26/lecture_image_processing.git
+
 % 課題４　画像のヒストグラム
 % 画素の濃度ヒストグラムを生成せよ．
 % 下記はサンプルプログラムである．
