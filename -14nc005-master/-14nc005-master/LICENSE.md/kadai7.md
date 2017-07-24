@@ -1,4 +1,4 @@
-https://github.com/dayton26/lecture_image_processing.git
+https://github.com/mackhasegawa/lecture_image_processing.git
 
 % 課題7　ダイナミックレンジの拡大
 % 画素のダイナミックレンジを０から２５５にせよ． 
