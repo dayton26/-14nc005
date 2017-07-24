@@ -1,3 +1,5 @@
+https://github.com/dayton26/lecture_image_processing.git
+
 % 課題６　画像の二値化
 % 下記のプログラムを参考にして画像を二値化せよ．
 % 下記はサンプルプログラムである．
