@@ -1,4 +1,4 @@
-https://github.com/dayton26/lecture_image_processing.git
+https://github.com/mackhasegawa/lecture_image_processing.git
 
 % 課題10 画像のエッジ抽出 
 % 次のプログラムを参考にして，エッジ抽出を体験せよ．
