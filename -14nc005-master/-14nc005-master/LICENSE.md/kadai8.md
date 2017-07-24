@@ -1,4 +1,4 @@
-https://github.com/dayton26/lecture_image_processing.git
+https://github.com/mackhasegawa/lecture_image_processing.git
 
 % 課題８ ラベリング
 % 二値化された画像の連結成分にラベルをつけよ．
