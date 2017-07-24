@@ -1,4 +1,4 @@
-https://github.com/dayton26/lecture_image_processing.git
+https://github.com/mackhasegawa/lecture_image_processing.git
 
 % 課題２　階調数と疑似輪郭
 % ２階調，４階調，８階調の画像を生成せよ．
