@@ -1,3 +1,5 @@
+https://github.com/dayton26/lecture_image_processing.git
+
 % 課題９ メディアンフィルタと先鋭化
 % メディアンフィルターを適用し，ノイズ除去を体験せよ．
 % 各自，Lenna以外の画像を用いよ．
