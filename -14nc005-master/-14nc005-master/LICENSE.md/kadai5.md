@@ -1,3 +1,5 @@
+https://github.com/dayton26/lecture_image_processing.git
+
 % 課題５　判別分析法
 % 判別分析法を用いて画像二値化せよ．
 % 下記はサンプルプログラムである．
