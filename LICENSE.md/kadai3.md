@@ -1,3 +1,5 @@
+https://github.com/dayton26/lecture_image_processing.git
+
 % 課題３　閾値処理
 % 閾値を4パターン設定し,閾値処理た画像を示せ．
 % 下記はサンプルプログラムである．
