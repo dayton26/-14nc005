@@ -1,3 +1,5 @@
+https://github.com/dayton26/lecture_image_processing.git
+
 課題1
 % 課題１　標本化間隔と空間解像度
 % 画像をダウンサンプリングして（標本化間隔を大きくして）
